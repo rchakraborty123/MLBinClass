@@ -1,0 +1,12 @@
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.deps.json
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.json
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.dev.json
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.dll
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\Data\yelp_labelled.txt
+D:\Training\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csprojAssemblyReference.cache
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.dll
+D:\Training\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.pdb
